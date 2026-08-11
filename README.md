@@ -56,7 +56,10 @@ climatescope-project/
 
 How to Run
 
-git clone https://github.com/Bhagyalaxmikali/climatescope-project.git
-cd climatescope-project
-pip install -r requirements.txt
-streamlit run app.py
+1.git clone https://github.com/Bhagyalaxmikali/climatescope-project.git
+
+2.cd climatescope-project
+
+3.pip install -r requirements.txt
+
+4.streamlit run app.py
